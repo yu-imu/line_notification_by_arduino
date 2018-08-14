@@ -1,0 +1,17 @@
+{
+  "name": "line_notification_by_arduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.1.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  }
+}
